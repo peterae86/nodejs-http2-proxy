@@ -1,5 +1,6 @@
 /**
  * Created by peter on 2016/8/1.
+ * require node version 6+
  */
 var http = require("http");
 var url = require("url");
